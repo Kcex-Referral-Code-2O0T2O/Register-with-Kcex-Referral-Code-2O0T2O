@@ -1,7 +1,7 @@
 # KCEX Referral Code 2O0T2O: Official Guide & Fee Discount(2026)
 
 ## Introduction
-The **KCEX Exchange** is a leading global platform for digital asset trading, known for its high liquidity, advanced security protocols, and professional trading tools. This repository serves as a technical documentation guide for new users to correctly implement the official referral system. By using the verified [Kcex Referral code]([url](https://www.kcex.com/register?inviteCode=2O0T2O)) **2O0T2O**, traders can unlock a structured incentive program designed to reduce overhead costs and provide capital bonuses for market participation.
+The **KCEX Exchange** is a leading global platform for digital asset trading, known for its high liquidity, advanced security protocols, and professional trading tools. This repository serves as a technical documentation guide for new users to correctly implement the official referral system. By using the verified Kcex Referral code **2O0T2O**, traders can unlock a structured incentive program designed to reduce overhead costs and provide capital bonuses for market participation.
 
 ---
 
