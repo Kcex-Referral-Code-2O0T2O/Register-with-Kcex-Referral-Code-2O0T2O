@@ -1,4 +1,4 @@
-# KCEX Referral Code 2O0T2O: Get $6,500 Bonus and 50% Fee Discount
+# KCEX Referral Code 2O0T2O: Active and Valid (2026)
 
 Welcome to the official repository for the **KCEX Referral Code 2O0T2O**. This guide provides the technical documentation and strategic steps to activate the maximum signup rewards on the KCEX Exchange for 2026. 
 
